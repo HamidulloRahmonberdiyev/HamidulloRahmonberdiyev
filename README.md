@@ -25,6 +25,6 @@ I love solving complex problems, automating business processes, and writing clea
 ```bash
 Languages:     PHP • JavaScript • HTML • CSS • SQL
 Frameworks:    Laravel • React
-Tools:         Git • GitHub • Docker • REST APIs • FilamentPHP
+Tools:         Livewire • REST APIs • FilamentPHP
 Databases:     MySQL • PostgreSQL
 Other:         Telegram Bots • Firebase • Bootstrap • Tailwind CSS
