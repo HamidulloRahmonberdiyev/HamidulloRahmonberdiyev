@@ -12,9 +12,9 @@ I'm a passionate and detail-oriented web developer with a strong background in b
 My primary stack includes **PHP**, **Laravel**, **JavaScript**, **React**.  
 I love solving complex problems, automating business processes, and writing clean and maintainable code.
 
-- 🌍 Based in **Uzbekistan**
+- 🌍 Country in **Uzbekistan**
 - 👨‍💻 Working at **[Next Developer Team]** as a **Backend Developer**
-- 📆 Years of experience: **[2] years**
+- 📆 Years of experience: **2 years**
 - 🎯 Focused on: **CRM systems**, **automation tools**, **e-commerce**, and **API integrations**
 - 📚 Always learning and improving through open-source projects
 
