@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hamidullo Rahmonberdiyev 👋</h1>
 
 <p align="center">
-  🚀 Backend Developer | 💻 Laravel & PHP Enthusiast | 🌐 Open Source Contributor
+  🚀 Fullstack Developer | 💻 Laravel & PHP Enthusiast | 🌐 Open Source Contributor
 </p>
 
 ---
@@ -13,7 +13,7 @@ My primary stack includes **PHP**, **Laravel**, **JavaScript**, **React**.
 I love solving complex problems, automating business processes, and writing clean and maintainable code.
 
 - 🌍 Country in **Uzbekistan**
-- 👨‍💻 Working at **[Next Developer Team]** as a **Backend Developer**
+- 👨‍💻 Working at **Next Developer Team** as a **Backend Developer**
 - 📆 Years of experience: **2 years**
 - 🎯 Focused on: **CRM systems**, **automation tools**, **e-commerce**, and **API integrations**
 - 📚 Always learning and improving through open-source projects
@@ -23,8 +23,8 @@ I love solving complex problems, automating business processes, and writing clea
 ## 🛠️ Tech Stack
 
 ```bash
-Languages:     PHP • JavaScript • HTML • CSS • SQL
+Languages:     PHP • JavaScript
 Frameworks:    Laravel • React
 Tools:         Livewire • REST APIs • FilamentPHP
-Databases:     MySQL • PostgreSQL
+Databases:     MySQL • PostgreSQL • MangoDB
 Other:         Telegram Bots • Firebase • Bootstrap • Tailwind CSS
