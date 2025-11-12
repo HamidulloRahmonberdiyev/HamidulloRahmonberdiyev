@@ -57,8 +57,8 @@ focused on building scalable, secure, and user-friendly web applications.
 ## ⚡ GitHub Performance  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HamidulloR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C4CC&icon_color=00C4CC" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=HamidulloR&theme=react&hide_border=true&background=0D1117&fire=00C4CC&ring=00C4CC&currStreakLabel=00C4CC" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HamidulloR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C4CC&icon_color=00C4CC" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamidulloR&theme=react&hide_border=true&background=0D1117&fire=00C4CC&ring=00C4CC&currStreakLabel=00C4CC" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
