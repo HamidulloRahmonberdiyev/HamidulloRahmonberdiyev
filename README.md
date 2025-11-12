@@ -57,7 +57,6 @@ I enjoy solving real-world problems, creating automation systems, and contributi
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamidulloRahmonberdiyev&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HamidulloRahmonberdiyev&theme=tokyonight" />
 </p>
 
@@ -66,9 +65,9 @@ I enjoy solving real-world problems, creating automation systems, and contributi
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://t.me/HamidulloRahmonberdiyev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:hamidullo.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hamidullo-rahmonberdiyev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/hamidullo_rahmonberdiyev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:hamidullo0760@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hamidullo-rahmonberdiyev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -78,8 +77,4 @@ I enjoy solving real-world problems, creating automation systems, and contributi
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C4CC&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <b>“Code is like art — simplicity makes it powerful.”</b> ✨
 </p>
