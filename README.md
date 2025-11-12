@@ -1,99 +1,79 @@
 <!-- 🌟 Profile Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C4CC&height=200&section=header&text=Hamidullo%20Rahmonberdiyev%20👨‍💻&fontSize=35&fontColor=ffffff&fontAlignY=35" />
 
-<h3 align="center">
-🚀 Fullstack Developer | 💻 Laravel & PHP Enthusiast | 🌐 Open Source Contributor
-</h3>
-
+<h1 align="center">👋 Hi there, I'm <span style="color:#007BFF;">Hamidullo Rahmonberdiyev</span></h1>
 <p align="center">
-  <a href="https://github.com/HamidulloR">
-    <img src="https://img.shields.io/github/followers/HamidulloR?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-  <a href="mailto:hamidullorahmonberdiyev@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://t.me/hamidullo_r">
-    <img src="https://img.shields.io/badge/Telegram-@hamidullo__r-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hamidullo-rahmonberdiyev">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+  🚀 <b>Fullstack Developer</b> | 💻 <b>Laravel & PHP Enthusiast</b> | 🌐 <b>Open Source Contributor</b>
 </p>
 
 ---
 
-## 🧑‍💼 About Me  
+### 🧑‍💼 About Me  
 
-Hi, I’m **Hamidullo Rahmonberdiyev**, a passionate **Fullstack Developer** from **Uzbekistan 🇺🇿**,  
-focused on building scalable, secure, and user-friendly web applications.  
+I’m a passionate and detail-oriented **Fullstack Developer** from 🇺🇿 **Uzbekistan**, specializing in building scalable and maintainable web applications.  
+I enjoy solving real-world problems, creating automation systems, and contributing to open-source projects.  
 
-💡 I’m obsessed with clean architecture, automation, and elegant backend design.  
-🎯 My main goal — turn complex business logic into seamless digital experiences.  
+💡 **What I Do:**  
+- ⚙️ Develop modern **CRM systems** and **automation tools**  
+- 🧩 Build robust **APIs** and scalable backend logic with **Laravel**  
+- 🎨 Create interactive frontends using **React & Livewire**  
+- 💬 Integrate **Telegram bots**, **Firebase**, and more  
 
-- 🧑‍💻 Currently at **Next Developer Team** as a **Backend Developer**  
-- ⚙️ 2+ years of hands-on experience in **Laravel**, **React**, and **API architecture**  
-- 🧩 Strong focus on **CRM systems**, **automation tools**, and **e-commerce backends**  
-- 🌱 Always learning — especially interested in **AI integrations** and **system scalability**  
-
----
-
-## 🛠️ Tech Arsenal  
-
-<div align="center">
-
-| Category | Technologies |
-|-----------|---------------|
-| 💻 **Languages** | PHP • JavaScript (ES6+) |
-| 🧩 **Frameworks** | Laravel • React • Livewire • FilamentPHP |
-| 🗄️ **Databases** | MySQL • PostgreSQL • MongoDB |
-| 🧰 **Tools & DevOps** | Git • Composer • NPM • REST APIs • Postman |
-| 🎨 **Frontend** | Tailwind CSS • Bootstrap • Vite |
-| 🤖 **Other** | Telegram Bots • Firebase • WebSockets |
-
-</div>
+📍 **Currently:** Backend Developer at [Next Developer Team](#)  
+📅 **Experience:** 2+ years in fullstack web development  
+🌱 **Learning:** Advanced Laravel ecosystem, clean architecture, and scaling techniques  
 
 ---
 
-## ⚡ GitHub Performance  
+### 🛠️ Tech Stack  
+
+#### 💬 Languages  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### ⚙️ Frameworks  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-4F46E5?style=for-the-badge&logo=laravel&logoColor=white)
+
+#### 🧰 Tools & Libraries  
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![FilamentPHP](https://img.shields.io/badge/FilamentPHP-FF61F6?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### ☁️ Others  
+![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HamidulloR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C4CC&icon_color=00C4CC" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamidulloR&theme=react&hide_border=true&background=0D1117&fire=00C4CC&ring=00C4CC&currStreakLabel=00C4CC" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidulloR&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C4CC" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamidulloRahmonberdiyev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HamidulloRahmonberdiyev&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Highlighted Projects  
+### 🌐 Connect With Me  
 
-| 💡 Project | 🔍 Description | 🛠️ Tech Stack |
-|-------------|----------------|----------------|
-| [📊 **Education CRM**](#) | Full-featured CRM for managing students, teachers, and finances | Laravel • Livewire • MySQL |
-| [🛍️ **E-Commerce API**](#) | Scalable backend API with JWT auth & order tracking | Laravel • Sanctum • Redis |
-| [📈 **Employee Attendance Dashboard**](#) | Filament-based dashboard for attendance analytics | FilamentPHP • Chart.js • PostgreSQL |
+<p align="center">
+  <a href="https://t.me/HamidulloRahmonberdiyev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:hamidullo.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hamidullo-rahmonberdiyev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🤝 Let’s Connect  
-
-<p align="center">
-  <a href="https://t.me/hamidullo_r">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:hamidullorahmonberdiyev@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/HamidulloR">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hamidullo-rahmonberdiyev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
+<h3 align="center">✨ “Clean code always looks like it was written by someone who cares.” ✨</h3>
 ---
 
 <p align="center">
